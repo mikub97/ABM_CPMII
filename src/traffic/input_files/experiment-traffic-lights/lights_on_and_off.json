@@ -1,0 +1,39 @@
+[
+    {
+      "pos": 0,
+      "durations": [0,0,1],
+      "state": "green"
+    },
+    {
+      "pos": 100,
+      "durations": [300,100,400],
+      "state": "green"
+    },
+    {
+      "pos": 300,
+      "durations": [300,100,400],
+      "state": "green"
+    },
+    {
+      "pos": 700,
+      "durations": [350,100,500],
+      "state": "green"
+    },
+    {
+      "pos": 760,
+      "durations": [200,100,500],
+      "state": "green"
+    },
+    {
+      "pos": 900,
+      "durations": [300,100,500],
+      "state": "green"
+    },
+     {
+      "pos": 1200,
+      "durations": [0,0,1],
+      "state": "green"
+    }
+
+
+]
